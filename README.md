@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm currently working on:
  - A exam website for students.
- - A calander website for Dutch schools.
+ - A calender website for Dutch schools.
 
 ## I'm familiar with:
 **Languages**
